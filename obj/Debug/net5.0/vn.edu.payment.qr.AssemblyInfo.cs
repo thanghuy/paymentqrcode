@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("62db0c81-9aa7-44b8-86af-9f87f8bfba1f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("vn.edu.payment.qr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
